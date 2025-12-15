@@ -1,0 +1,7 @@
+{
+  "name": "Magic Shutter",
+  "description": "一款恶作剧相机应用，可以将拍摄的照片自动替换为相册中预选的图片，并附带 AI 生成的神秘解读。",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
